@@ -14,4 +14,3 @@ I have been awarded a scholarship to study Software Engineering. The key learnin
 * Unit Testing
 * HTML Primer, CSS Primer
 * Relational Databases, SQL, SQLite
-* Django Project
